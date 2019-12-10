@@ -1,0 +1,3 @@
+ModelPath: "/home/rjp/rjp_code/face/face_pos_cal/cfg/shape_predictor_68_face_landmarks.dat"
+LandmarkPath: "/home/rjp/rjp_code/face/face_pos_cal/cfg/landmark68.txt"
+CameraKPath: "/home/rjp/rjp_code/face/face_pos_cal/cfg/camera_K.yaml"
