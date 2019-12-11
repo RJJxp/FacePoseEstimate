@@ -1,5 +1,5 @@
-#ifndef FPC_SOLOVE_PNP_H
-#define FPC_SOLOVE_PNP_H
+#ifndef _FPC_SOLOVE_PNP_H_
+#define _FPC_SOLOVE_PNP_H_
 
 // cpp
 #include <iostream>

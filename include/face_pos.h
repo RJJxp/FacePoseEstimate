@@ -1,5 +1,5 @@
-#ifndef FPC_FACE_POS_H
-#define FPC_FACE_POS_H
+#ifndef _FPC_FACE_POS_H_
+#define _FPC_FACE_POS_H_
 
 #include <iostream>
 

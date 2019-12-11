@@ -1,5 +1,5 @@
-#ifndef FPC_DETECTOR_H
-#define FPC_DETECTOR_H
+#ifndef _FPC_DETECTOR_H_
+#define _FPC_DETECTOR_H_
 
 #include <iostream>
 #include <opencv2/opencv.hpp>

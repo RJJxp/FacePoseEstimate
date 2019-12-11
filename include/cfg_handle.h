@@ -1,5 +1,5 @@
-#ifndef FPC_CAMERA_HANDLE_H
-#define FPC_CAMERA_HANDLE_H
+#ifndef _FPC_CAMERA_HANDLE_H_
+#define _FPC_CAMERA_HANDLE_H_
 
 #include <iostream>
 #include "opencv2/opencv.hpp"
